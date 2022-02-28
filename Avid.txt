@@ -5,4 +5,5 @@ api.avid.com
 cdn.avid.com
 ac.avid.com
 apps.avid.com
+learn-cdn.avid.com
 d.la4-c2-ia5.salesforceliveagent.com
