@@ -4,4 +4,5 @@ update.avid.com
 api.avid.com
 cdn.avid.com
 ac.avid.com
+apps.avid.com
 d.la4-c2-ia5.salesforceliveagent.com
