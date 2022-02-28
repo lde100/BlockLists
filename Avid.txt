@@ -1,3 +1,4 @@
 everywhere.avid.com
 license.avid.com
 update.avid.com
+d.la4-c2-ia5.salesforceliveagent.com
